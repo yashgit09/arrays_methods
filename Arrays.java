@@ -1,7 +1,7 @@
   /*Name: Yash Kelkar
   Student number: A00242148
   Program description: JAV-1001 - 11329 - App Development for Android 
-  Lab - 1 Variable and logic  */
+  Lab - 2 Array and Method  */
 
   // importing java scanner to read user input
   import java.util.*;
